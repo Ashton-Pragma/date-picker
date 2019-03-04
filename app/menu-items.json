@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "path": "root",
+        "description": "Welcome",
+        "screen": "#welcome"
+    },
+    {
+        "id": 2,
+        "path": "root",
+        "description": "Test",
+        "screen": "#test"
+    }
+]
